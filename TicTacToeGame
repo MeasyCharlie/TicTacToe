@@ -67,7 +67,7 @@ void swap_player_and_marker(){
 }
 
 void game(){
-    cout << "Player one, choose your marker : ";
+    cout << "Player one, choose any one thing 'X' or 'O' : ";
     char marker_p1;
     cin >> marker_p1;
     
